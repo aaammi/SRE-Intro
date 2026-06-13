@@ -226,11 +226,3 @@ index c86db33..8d94f0e 100644
 
 ---
 
-## Task 3 — GitHub Community
-
-- Starred the course repository and [simple-container-com/api](https://github.com/simple-container-com/api).
-- Following professor [@Cre-eD](https://github.com/Cre-eD), TAs [@Naghme98](https://github.com/Naghme98) and [@pierrepicaud](https://github.com/pierrepicaud), and 3+ classmates.
-
-**Why starring matters:** Stars serve as bookmarks and social proof — they help maintainers gauge interest and help other developers discover useful projects. A well-starred repo signals community trust.
-
-**Why following matters:** Following developers surfaces their activity in your feed — new repos, contributions, releases. In a team setting this keeps you aware of what your colleagues are working on and exposes you to tools and patterns you might otherwise miss.
