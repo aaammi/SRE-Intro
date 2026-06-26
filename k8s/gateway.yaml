@@ -15,7 +15,7 @@ spec:
       containers:
         - name: gateway
           image: ghcr.io/aaammi/quickticket-gateway:43b18db75eb1de6fd61526aacaad76bcfc54ce3a
-          imagePullPolicy: Never
+          imagePullPolicy: Always
           ports:
             - containerPort: 8080
           env:
